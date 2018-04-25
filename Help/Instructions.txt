@@ -1,0 +1,20 @@
+TO EXIT
+Hit the ESCAPE key, or click the "Return to game" button in the menu.
+
+MAP CREATION
+Start/stop editing walls by clicking the "Editing walls" button.  To PLACE a wall, left-click.  To REMOVE a wall, right-click.  Specify the width and height via the entry fields to the right of the button.  You can't edit walls after starting the game.
+
+MOVEMENT
+Move your character with WASD or the arrow keys.  UP and DOWN move you forwards and backwards.  LEFT and RIGHT rotate you.  You can move and turn simultaneously.
+
+WEAPON
+Left-click and hold to continuously SHOOT at the cursor.  Alternatively, press and hold the Z or M key to SHOOT in the direction you're facing.  You can use money to upgrade your weapons via the buttons at the top of the menu.
+
+GAMEPLAY
+Starting the game causes enemies to spawn at random intervals.  You can spawn more enemies by pressing E or the "Spawn enemies" button.  Kill the enemies with your weapon for money.  As you kill enemies, the level will increase, and enemies will grow stronger.
+
+PAUSING
+Press the SPACE key or the "Pause" button to pause/unpause the game.
+
+PATHFINDING
+Press the D key to display/hide enemies' current paths.
